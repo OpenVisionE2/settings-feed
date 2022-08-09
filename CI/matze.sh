@@ -14,7 +14,7 @@ B=${D}/build
 TMP=${D}/tmp
 R=${D}/feed
 AU=${D}/matzeau
-Homepage="http://matzesetting.brinkster.net/"
+Homepage="http://matzesetting.brinkster.net"
 GitSource="https://github.com/OpenVisionE2/Matze-settings"
 
 function MakeIPK ()

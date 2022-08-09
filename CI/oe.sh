@@ -4,8 +4,10 @@
 
 PVER="1.0"
 PR="r0"
+PACK="oe"
 LOCAL="local"
 GITREPRO="oe-alliance/oe-alliance-settings"
+PACKNAME="enigma2-plugin-settings-vhannibal"
 D=$(pwd) &> /dev/null
 PD=${D}/$LOCAL
 B=${D}/build
@@ -28,7 +30,7 @@ function MakeIPK ()
 cat > ${TMP}/CONTROL/control << EOF
 Package: ${PACKNAME}.${2}
 Version: ${3}
-Description: ${PACK} ${2}
+Description: ${PACK} enigma2 settings ${2}
 Section: base
 Priority: optional
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
@@ -53,21 +55,18 @@ EOF
 
 GITCOMMITS=$(curl  --silent -I -k "https://api.github.com/repos/$GITREPRO/commits?per_page=1" | sed -n '/^[Ll]ink:/ s/.*"next".*page=\([0-9]*\).*"last".*/\1/p')
 GITHASH=$(git ls-remote https://github.com/$GITREPRO HEAD | sed -e 's/^\(.\{7\}\).*/\1/')
-OLDHASH=$(head -n 1 oe.hash 2>/dev/null)
+OLDHASH=$(head -n 1 $PACK.hash 2>/dev/null)
 
 if [ "$OLDHASH" == "$GITHASH" ]; then
     exit 0
 fi
-echo $GITHASH > oe.hash
+echo $GITHASH > $PACK.hash
 rm -rf ${PD}
 git clone --depth 1 ${Homepage} local
 
 VER="$PVER+git$GITCOMMITS+${GITHASH}_r0"
 
 mkdir -p ${R}
-
-PACKNAME="enigma2-plugin-settings-vhannibal"
-PACK="Vhannibal E2 Settings File"
 
 rm -rf ${D}/feed/${PACKNAME}*.ipk
 

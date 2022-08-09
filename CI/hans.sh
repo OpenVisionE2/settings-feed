@@ -2,7 +2,7 @@
 
 # Script by jbleyel for https://github.com/oe-alliance
 
-PVER="1.2"
+PVER="1.0"
 PR="r0"
 PACK="hans"
 LOCAL="local"

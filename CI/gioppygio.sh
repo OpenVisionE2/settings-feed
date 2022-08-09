@@ -13,7 +13,7 @@ PD=${D}/$LOCAL
 B=${D}/build
 TMP=${D}/tmp
 R=${D}/feed
-Homepage="http://picons.gioppygio.it/"
+Homepage="https://gioppygio.it"
 GitSource="https://github.com/OpenVisionE2/GioppyGio-settings"
 
 function MakeIPK ()
