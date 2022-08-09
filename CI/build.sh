@@ -15,7 +15,7 @@ commit_files() {
  ./CI/morph883.sh
  ./CI/ciefp.sh
  ./CI/hans.sh
- ./CI/oe.sh
+ ./CI/vhannibal.sh
  ./CI/matze.sh
  ./CI/dona.sh
 

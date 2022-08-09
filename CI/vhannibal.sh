@@ -4,16 +4,17 @@
 
 PVER="1.0"
 PR="r0"
-PACK="oe"
+PACK="vhannibal"
 LOCAL="local"
-GITREPRO="oe-alliance/oe-alliance-settings"
+GITREPRO="OpenVisionE2/Vhannibal-settings"
 PACKNAME="enigma2-plugin-settings-vhannibal"
 D=$(pwd) &> /dev/null
 PD=${D}/$LOCAL
 B=${D}/build
 TMP=${D}/tmp
 R=${D}/feed
-Homepage="https://github.com/oe-alliance/oe-alliance-settings"
+Homepage="https://www.vhannibal.net"
+GitSource="https://github.com/OpenVisionE2/Vhannibal-settings"
 
 function MakeIPK ()
 {
@@ -62,7 +63,7 @@ if [ "$OLDHASH" == "$GITHASH" ]; then
 fi
 echo $GITHASH > $PACK.hash
 rm -rf ${PD}
-git clone --depth 1 ${Homepage} local
+git clone --depth 1 ${GitSource} local
 
 VER="$PVER+git$GITCOMMITS+${GITHASH}_r0"
 
