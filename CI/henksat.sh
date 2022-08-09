@@ -78,6 +78,6 @@ MakeIPK e2_henksat_full_astra_1_2_3 19e-23e-28e ${VER}
 MakeIPK e2_henksat_astra_1_3 19e-23e ${VER}
 MakeIPK e2_henksat_astra_1 19e ${VER}
 MakeIPK e2_henksat_astra_3 23e ${VER}
-MakeIPK e2_henksat_rotating_45e_45w rotating ${VER}
+MakeIPK e2_henksat_rotating_45e_45w 45e-45w-rotating ${VER}
 MakeIPK e2_henksat_wavefrontier wavefrontier ${VER}
 MakeIPK e2_henksat_ziggo ziggo ${VER}
