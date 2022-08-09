@@ -5,7 +5,7 @@ settings-feed for Open Vision
 ## CONTENT
 ciefp -> https://github.com/ciefp/ciefpsettings-enigma2
 
-Hans -> https://github.com/haroo/HansSettings
+Hans -> https://github.com/OpenVisionE2/Hans-settings
 
 Henksat -> https://github.com/OpenPLi/HenksatSettings
 
