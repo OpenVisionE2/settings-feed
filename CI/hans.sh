@@ -6,7 +6,7 @@ PVER="1.2"
 PR="r0"
 PACK="hans"
 LOCAL="local"
-GITREPRO="oe-mirrors/hanssettings"
+GITREPRO="OpenVisionE2/Hans-settings"
 PACKNAME="enigma2-plugin-settings-hans"
 D=$(pwd) &> /dev/null
 PD=${D}/$LOCAL
@@ -14,7 +14,7 @@ B=${D}/build
 TMP=${D}/tmp
 R=${D}/feed
 Homepage="https://gitlab.openpli.org/openpli/hanssettings"
-GitSource="https://github.com/oe-mirrors/hanssettings"
+GitSource="https://github.com/OpenVisionE2/Hans-settings"
 
 function MakeIPK ()
 {
