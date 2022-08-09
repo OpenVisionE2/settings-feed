@@ -1,45 +1,60 @@
-Package: enigma2-plugin-settings-vhannibal-quad-nordic
-Version: 1.0+git4+c0098fc_r0
+Package: enigma2-plugin-settings-gioppygio-5w-13e
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: ead08fd14a522d41a83fc02d0fa5188c
-Size: 200812
-Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings quad-nordic
+MD5Sum: 22ef5d29f8c0dfb8381f5142818c1df9
+Size: 45554
+Filename: enigma2-plugin-settings-gioppygio-5w-13e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 5w-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-5w-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-motor
+Version: 1.0+git5+06a89c5_r0
+Section: base
+Architecture: all
+MD5Sum: ac17570e1f7b756134c72ff3ae492207
+Size: 407298
+Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings motor
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-quad-nordic
+OE: enigma2-plugin-settings-vhannibal-motor
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-quadri-13e-16e-19e-30w
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-gioppygio-13e-19e-30w
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: ec8903e347e96bf4b050c530bdfeaf89
-Size: 76524
-Filename: enigma2-plugin-settings-gioppygio-quadri-13e-16e-19e-30w_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings quadri-13e-16e-19e-30w
+MD5Sum: 8e05f88aa33c7f73c09ba5f308d07861
+Size: 64360
+Filename: enigma2-plugin-settings-gioppygio-13e-19e-30w_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e-30w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-quadri-13e-16e-19e-30w
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e-30w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-motor-90e-45w
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-hans-19e-23e
+Version: 1.0+git4+4f0fb2f_r0
 Section: base
 Architecture: all
-MD5Sum: 4eba04ebdc1947e25671c2bab64d5c2f
-Size: 265498
-Filename: enigma2-plugin-settings-dona-motor-90e-45w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings motor-90e-45w
+MD5Sum: 543ac612f9a5e3760c90e1d15fe6d443
+Size: 39216
+Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings 19e-23e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-motor-90e-45w
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-19e-23e
 License: Proprietary
 
 
@@ -88,36 +103,6 @@ OE: enigma2-plugin-settings-ciefp-19e.16e.13e.0.8w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 62973e3cea89e6de628c2cd91a8ef8ee
-Size: 109326
-Filename: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e-13e-4.8e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-motor-28e-30w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 360533312ecc08b47359bd0020892f8d
-Size: 213350
-Filename: enigma2-plugin-settings-dona-motor-28e-30w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings motor-28e-30w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-motor-28e-30w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
 Version: 1.0+git287+7191c6e_r0
 Section: base
@@ -163,63 +148,78 @@ OE: enigma2-plugin-settings-henksat-wavefrontier
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-mono-13e
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-hans-19e-23e-28e
+Version: 1.0+git4+4f0fb2f_r0
 Section: base
 Architecture: all
-MD5Sum: e869f8febdccede6dcb3e39b9ea23af4
-Size: 34754
-Filename: enigma2-plugin-settings-gioppygio-mono-13e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings mono-13e
+MD5Sum: 3cfdeb97b3bdee48979b1848c5eadef8
+Size: 855400
+Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings 19e-23e-28e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-mono-13e
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-motor
-Version: 1.0+git4+c0098fc_r0
+Package: enigma2-plugin-settings-matze-astra-hotbird
+Version: 1.0+git12+cf22331_r0
 Section: base
 Architecture: all
-MD5Sum: 52a9575be5685771fd920b2c46009397
-Size: 407294
-Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings motor
+MD5Sum: 86b942f068f36ba26de5e3c9d9adc79b
+Size: 54704
+Filename: enigma2-plugin-settings-matze-astra-hotbird_1.0+git12+cf22331_r0_all.ipk
+Description: matze enigma2 settings astra-hotbird
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-motor
+Source: http://matzesetting.brinkster.net
+OE: enigma2-plugin-settings-matze-astra-hotbird
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-trial-5w-13e-19e
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: ed0ade9f75ccacc5d9744092611d1a01
-Size: 69284
-Filename: enigma2-plugin-settings-gioppygio-trial-5w-13e-19e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings trial-5w-13e-19e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-trial-5w-13e-19e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-motor-75e-30w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 5d028f2a4b315471a7802e714f6ab149
-Size: 263576
-Filename: enigma2-plugin-settings-dona-motor-75e-30w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings motor-75e-30w
+MD5Sum: 2ecd270acec84f6aa49d6f72ce5d3dcb
+Size: 142514
+Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-1.9e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-motor-75e-30w
+OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-5w-13e-19e
+Version: 1.0+git75+d6f809e_r0
+Section: base
+Architecture: all
+MD5Sum: c809a2a52d1053fa6b1b374a6d526b36
+Size: 69268
+Filename: enigma2-plugin-settings-gioppygio-5w-13e-19e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 5w-13e-19e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-5w-13e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
+Version: 1.0+git5+06a89c5_r0
+Section: base
+Architecture: all
+MD5Sum: 03d0d412920955d8a34d868534bb03df
+Size: 254404
+Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings 9e-13e-16e-19e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
 License: Proprietary
 
 
@@ -238,18 +238,48 @@ OE: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-trial-13e-19e-30w
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-dona-19e-16e-13e-1w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: b647e61883934b989154970409be9242
-Size: 64380
-Filename: enigma2-plugin-settings-gioppygio-trial-13e-19e-30w_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings trial-13e-19e-30w
+MD5Sum: 40ed17dc9a07653a325425ad8f19221d
+Size: 104504
+Filename: enigma2-plugin-settings-dona-19e-16e-13e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e-13e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-trial-13e-19e-30w
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-19e-16e-13e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: beddc33978daa74df12c9132a6f1846f
+Size: 163964
+Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 78d5119513c05fcdd8913a6c61eaae4c
+Size: 109136
+Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 23.5e-19e-16e-13e-9e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
 License: Proprietary
 
 
@@ -268,18 +298,33 @@ OE: enigma2-plugin-settings-ciefp-23e.19e.16e.13e.1.9e.0.8w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-13e-19e-23e-28e
-Version: 1.0+git3+be3146d_r0
+Package: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: 260fbc2b8cbcdc85a739c4ae01692542
-Size: 885900
-Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings 13e-19e-23e-28e
+MD5Sum: b71d827fe9d3cbc7b1c83ebc91a7213c
+Size: 146426
+Filename: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 39e-23.5e-19e-16e-13e-9e-1.9e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-motor-28e-30w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 7cc57c2ece122d882c35c2f49f62dadd
+Size: 213366
+Filename: enigma2-plugin-settings-dona-motor-28e-30w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings motor-28e-30w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-motor-28e-30w
 License: Proprietary
 
 
@@ -298,63 +343,33 @@ OE: enigma2-plugin-settings-henksat-19e-23e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-kabelnl
-Version: 1.0+git3+be3146d_r0
+Package: enigma2-plugin-settings-gioppygio-13e
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: 0f31194e8ca1442d484a40ed903779d0
-Size: 800056
-Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings kabelnl
+MD5Sum: 51895d6fb1d2d787b90f25ab58117365
+Size: 34744
+Filename: enigma2-plugin-settings-gioppygio-13e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-kabelnl
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: 72050e87afafdfc0ea4dc823a67e1070
-Size: 162210
-Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
+MD5Sum: 53f9fd60b5a11f78cd1a9fd68c77f97b
+Size: 86912
+Filename: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e-9e-5w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-19e-13e
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: c83509737e51ea70a8f680a96f218b3b
-Size: 67050
-Filename: enigma2-plugin-settings-dona-19e-13e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-13e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-13e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 0cb1c07171c862a87279e59ee1846b29
-Size: 142512
-Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-1.9e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
 License: Proprietary
 
 
@@ -403,63 +418,33 @@ OE: enigma2-plugin-settings-morpheus883-13e-28.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-dona-19e
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: a6c2287e7937ec3c7d7427065988c40a
-Size: 109844
-Filename: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e-13e-1.9e-1w
+MD5Sum: 32783b09833f50dfe7f8061e94da7647
+Size: 37488
+Filename: enigma2-plugin-settings-dona-19e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w
+OE: enigma2-plugin-settings-dona-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e-16e-13e
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-vhannibal-trial
+Version: 1.0+git5+06a89c5_r0
 Section: base
 Architecture: all
-MD5Sum: b86bd9216e1ce81b92443e076ef8bcbc
-Size: 83282
-Filename: enigma2-plugin-settings-dona-19e-16e-13e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e-13e
+MD5Sum: c54884b1d77a932714d63389e135b764
+Size: 235738
+Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings trial
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e-13e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-matze-kabel-deutschland
-Version: 1.0+git11+76ee1c6_r0
-Section: base
-Architecture: all
-MD5Sum: 494defbac414e8906e438f11b7313058
-Size: 10100
-Filename: enigma2-plugin-settings-matze-kabel-deutschland_1.0+git11+76ee1c6_r0_all.ipk
-Description: matze enigma2 settings kabel-deutschland
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-kabel-deutschland
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: d136269be3fbb8556d7332985e02dcea
-Size: 122302
-Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 23.5e-19e-16e-13e-1.9e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-trial
 License: Proprietary
 
 
@@ -478,18 +463,33 @@ OE: enigma2-plugin-settings-morpheus883-9e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
-Version: 1.0+git4+c0098fc_r0
+Package: enigma2-plugin-settings-dona-16e
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: 5606b1880aff090ff99bc99918538dfa
-Size: 254344
-Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings 9e-13e-16e-19e
+MD5Sum: 48a772e22325b8459314dad104cd542e
+Size: 31424
+Filename: enigma2-plugin-settings-dona-16e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 16e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-16e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 57d705aadf7b3a0ad9fbe756122da5f8
+Size: 88760
+Filename: enigma2-plugin-settings-dona-19e-16e-13e-1.9e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e-13e-1.9e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
 License: Proprietary
 
 
@@ -508,18 +508,48 @@ OE: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e-16e
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+Version: 1.0+git5+06a89c5_r0
 Section: base
 Architecture: all
-MD5Sum: ca3c705d5be589409624fb230d00319d
-Size: 53528
-Filename: enigma2-plugin-settings-dona-19e-16e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e
+MD5Sum: ad6f34eb0ae2d20fca45a3b86de0062b
+Size: 258804
+Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings 13e-19e-23e-28e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-dual
+Version: 1.0+git5+06a89c5_r0
+Section: base
+Architecture: all
+MD5Sum: 7af01af23c65375caa2d387f5d45ed6c
+Size: 229962
+Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings dual
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-dual
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-9e-13e-19e
+Version: 1.0+git75+d6f809e_r0
+Section: base
+Architecture: all
+MD5Sum: b3ee894193d360e0891467bfc2717536
+Size: 76448
+Filename: enigma2-plugin-settings-gioppygio-9e-13e-19e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 9e-13e-19e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-9e-13e-19e
 License: Proprietary
 
 
@@ -538,63 +568,108 @@ OE: enigma2-plugin-settings-morpheus883-13e-23.5e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-hans-13e-19e-23e-28e
+Version: 1.0+git4+4f0fb2f_r0
 Section: base
 Architecture: all
-MD5Sum: fd3095ab6cf6307b673e9c335fcdc5df
-Size: 109124
-Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 23.5e-19e-16e-13e-9e
+MD5Sum: 3e283a772d4c80fa9e9695ab718e41d4
+Size: 885946
+Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings 13e-19e-23e-28e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
+Version: 1.0+git75+d6f809e_r0
+Section: base
+Architecture: all
+MD5Sum: 9557f40c044b70908f418a873a9d8ca6
+Size: 89012
+Filename: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 9e-13e-16e-19e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 1676ba699a7139ed670a1f28fb0dce32
+Size: 145016
+Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-4.8e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
+OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-dual
-Version: 1.0+git4+c0098fc_r0
+Package: enigma2-plugin-settings-dona-motor-75e-30w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: 042658f4d542e9d0b4621ab34ca8ccae
-Size: 229968
-Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings dual
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-dual
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-matze-astra-hotbird
-Version: 1.0+git11+76ee1c6_r0
-Section: base
-Architecture: all
-MD5Sum: c3a43ec66a623b438f73e442fcf0fa11
-Size: 54688
-Filename: enigma2-plugin-settings-matze-astra-hotbird_1.0+git11+76ee1c6_r0_all.ipk
-Description: matze enigma2 settings astra-hotbird
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-astra-hotbird
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 6b6919caef17c3a8c6782cec52fdc534
-Size: 156588
-Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
+MD5Sum: ead8eaa223a687b061a1507a00fa9aa5
+Size: 263578
+Filename: enigma2-plugin-settings-dona-motor-75e-30w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings motor-75e-30w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
+OE: enigma2-plugin-settings-dona-motor-75e-30w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-motor-42e-30w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: d16096c0a169eddbfa21f6573eddbbb6
+Size: 242840
+Filename: enigma2-plugin-settings-dona-motor-42e-30w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings motor-42e-30w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-motor-42e-30w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 9ca25befd40e5b34e5067f280d199a6e
+Size: 95674
+Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 23.5e-19e-16e-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: cb51168b5781ac75a25e4fb2149e3aef
+Size: 171802
+Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
 License: Proprietary
 
 
@@ -613,6 +688,36 @@ OE: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
+Version: 1.0+git5+06a89c5_r0
+Section: base
+Architecture: all
+MD5Sum: 8296fb6638dd4d28a0f5883fe6f3f368
+Size: 195520
+Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings 7e-13e-19e-42e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-matze-astra
+Version: 1.0+git12+cf22331_r0
+Section: base
+Architecture: all
+MD5Sum: 5447538106f42226cba0574cf4181daa
+Size: 27674
+Filename: enigma2-plugin-settings-matze-astra_1.0+git12+cf22331_r0_all.ipk
+Description: matze enigma2 settings astra
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: http://matzesetting.brinkster.net
+OE: enigma2-plugin-settings-matze-astra
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-henksat-ziggo
 Version: 1.0+git66+149aa85_r0
 Section: base
@@ -625,6 +730,21 @@ Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-ziggo
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
+Version: 1.0+git4+4f0fb2f_r0
+Section: base
+Architecture: all
+MD5Sum: 0fe061015a7e192b87643347a150b6e0
+Size: 893214
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings 9e-13e-19e-23e-28e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
 License: Proprietary
 
 
@@ -658,21 +778,6 @@ OE: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-quadri-9e-13e-16e-19e
-Version: 1.0+git74+8c4f376_r0
-Section: base
-Architecture: all
-MD5Sum: b5850406db48938cd9db9b3739e8d10a
-Size: 89022
-Filename: enigma2-plugin-settings-gioppygio-quadri-9e-13e-16e-19e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings quadri-9e-13e-16e-19e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-quadri-9e-13e-16e-19e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-42e
 Version: 1.0+git287+7191c6e_r0
 Section: base
@@ -703,21 +808,6 @@ OE: enigma2-plugin-settings-morpheus883-4.8e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-hotbird
-Version: 1.0+git4+c0098fc_r0
-Section: base
-Architecture: all
-MD5Sum: d667f32d0684d9186f6b0e5a309e179f
-Size: 202378
-Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings hotbird
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-hotbird
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-ciefp-19e
 Version: 1.0+git216+47eb591_r0
 Section: base
@@ -730,21 +820,6 @@ Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
 OE: enigma2-plugin-settings-ciefp-19e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-dual
-Version: e9-13e
-Section: base
-Architecture: all
-MD5Sum: b309d90379964a835cef85c858ed167d
-Size: 52704
-Filename: enigma2-plugin-settings-gioppygio-dual_e9-13e_all.ipk
-Description: gioppygio enigma2 settings dual
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-dual
 License: Proprietary
 
 
@@ -805,21 +880,6 @@ Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-trial-13e-16e-19e
-Version: 1.0+git74+8c4f376_r0
-Section: base
-Architecture: all
-MD5Sum: 22323ee3b0046fa620956a8775f25611
-Size: 71700
-Filename: enigma2-plugin-settings-gioppygio-trial-13e-16e-19e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings trial-13e-16e-19e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-trial-13e-16e-19e
 License: Proprietary
 
 
@@ -898,138 +958,108 @@ OE: enigma2-plugin-settings-morpheus883-13e-16e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 12c9d082147733ce46e48cc8a083734a
-Size: 146436
-Filename: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 39e-23.5e-19e-16e-13e-9e-1.9e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-gioppygio-motor-75e-45w
-Version: 1.0+git74+8c4f376_r0
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: 030352c3369daf5a0b7d728db0264c18
-Size: 256868
-Filename: enigma2-plugin-settings-gioppygio-motor-75e-45w_1.0+git74+8c4f376_r0_all.ipk
+MD5Sum: 59869a88eddcf8c7ca2ad457e751e591
+Size: 256870
+Filename: enigma2-plugin-settings-gioppygio-motor-75e-45w_1.0+git75+d6f809e_r0_all.ipk
 Description: gioppygio enigma2 settings motor-75e-45w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: http://picons.gioppygio.it/
+Source: https://gioppygio.it
 OE: enigma2-plugin-settings-gioppygio-motor-75e-45w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-dual-5w-13e
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-dona-motor-90e-45w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: 5ed7b730f3c630d74b2a59dad1069a02
-Size: 45562
-Filename: enigma2-plugin-settings-gioppygio-dual-5w-13e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings dual-5w-13e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-dual-5w-13e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-Version: 1.0+git4+c0098fc_r0
-Section: base
-Architecture: all
-MD5Sum: 7c389fcad7099a96ac1bec0c64d3b081
-Size: 195530
-Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings 7e-13e-19e-42e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-motor-42e-30w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 84fff261d387f9e2598482c854b5206a
-Size: 242828
-Filename: enigma2-plugin-settings-dona-motor-42e-30w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings motor-42e-30w
+MD5Sum: c995afe84d56cb88328457a9297942ae
+Size: 265502
+Filename: enigma2-plugin-settings-dona-motor-90e-45w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings motor-90e-45w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-motor-42e-30w
+OE: enigma2-plugin-settings-dona-motor-90e-45w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: 02db9b482b39c530d7b1737a776ce953
-Size: 37474
-Filename: enigma2-plugin-settings-dona-19e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e
+MD5Sum: b45d693a461f8ed843e8ec6ed3dbdbf7
+Size: 109328
+Filename: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e-13e-4.8e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e
+OE: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-trial
-Version: 1.0+git4+c0098fc_r0
+Package: enigma2-plugin-settings-gioppygio-e9-13e
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: bd6d1f5de9e170aafa725d8f3e55ac79
-Size: 235734
-Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings trial
+MD5Sum: c3d5f78593ee66d03699805b78666a1b
+Size: 52714
+Filename: enigma2-plugin-settings-gioppygio-e9-13e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings e9-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-e9-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 9fb687b3de0b4fdff08ae295e30a4759
+Size: 156590
+Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-28e-19e-16e-13e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: a08eb7ea12037ab22e0c959a0af8bb5c
+Size: 92350
+Filename: enigma2-plugin-settings-dona-28e-19e-16e-13e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 28e-19e-16e-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-28e-19e-16e-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-hotbird
+Version: 1.0+git5+06a89c5_r0
+Section: base
+Architecture: all
+MD5Sum: c7c6674cea7dbb6e39434073bdd26ea9
+Size: 202354
+Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings hotbird
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-trial
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-trial-9e-13e-19e
-Version: 1.0+git74+8c4f376_r0
-Section: base
-Architecture: all
-MD5Sum: abe54dff7e381c972c10842e5662473f
-Size: 76462
-Filename: enigma2-plugin-settings-gioppygio-trial-9e-13e-19e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings trial-9e-13e-19e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-trial-9e-13e-19e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
-Version: 1.0+git3+be3146d_r0
-Section: base
-Architecture: all
-MD5Sum: 6d9b3ed07fb44bbfdd2c634c92deebfa
-Size: 893146
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings 9e-13e-19e-23e-28e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
+OE: enigma2-plugin-settings-vhannibal-hotbird
 License: Proprietary
 
 
@@ -1048,21 +1078,6 @@ OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e-42e-7e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 261220bc2f77835602fb8e8501799f20
-Size: 95672
-Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 23.5e-19e-16e-13e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-motor
 Version: 1.0+git287+7191c6e_r0
 Section: base
@@ -1078,18 +1093,33 @@ OE: enigma2-plugin-settings-morpheus883-motor
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-dual-13e-19e
-Version: 1.0+git74+8c4f376_r0
+Package: enigma2-plugin-settings-gioppygio-13e-19e
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: d86e8c404814f051786f6911c0f93330
-Size: 58862
-Filename: enigma2-plugin-settings-gioppygio-dual-13e-19e_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings dual-13e-19e
+MD5Sum: 4861442e2d11e12a3b273d75d88a2b5d
+Size: 58846
+Filename: enigma2-plugin-settings-gioppygio-13e-19e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-dual-13e-19e
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-19e-13e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 27e9c59bc4a5a20b4a52fd309622c595
+Size: 67066
+Filename: enigma2-plugin-settings-dona-19e-13e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-19e-13e
 License: Proprietary
 
 
@@ -1123,18 +1153,33 @@ OE: enigma2-plugin-settings-ciefp-19e.16e.13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-hans-kabelnl
+Version: 1.0+git4+4f0fb2f_r0
 Section: base
 Architecture: all
-MD5Sum: 24211a206e510d855634477d1905ef03
-Size: 88750
-Filename: enigma2-plugin-settings-dona-19e-16e-13e-1.9e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e-13e-1.9e
+MD5Sum: 95224ea8dcb3499da0c9cc23e8094df9
+Size: 800088
+Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings kabelnl
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-kabelnl
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 82f4968b2a8e6e64cdc6c3323f2dbecc
+Size: 109850
+Filename: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e-13e-1.9e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
+OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w
 License: Proprietary
 
 
@@ -1153,21 +1198,6 @@ OE: enigma2-plugin-settings-henksat-rotating
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: bca98e0ef68b676fc9df5c6a0b1c10c1
-Size: 145010
-Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-4.8e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-henksat-23e
 Version: 1.0+git66+149aa85_r0
 Section: base
@@ -1183,108 +1213,108 @@ OE: enigma2-plugin-settings-henksat-23e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
-Version: 1.0+git5+e730795_r0
+Package: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
+Version: 1.0+git75+d6f809e_r0
 Section: base
 Architecture: all
-MD5Sum: bfa5c9a3cf6a46745f5616d161c44c3f
-Size: 163958
-Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
+MD5Sum: 08b5396684c2f31814428521870d1a2a
+Size: 76508
+Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-16e-19e-30w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 3b43ac75d45ea4a3df23df6d88e7a024
+Size: 145164
+Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-1.9e-1w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
+OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-19e-23e
-Version: 1.0+git3+be3146d_r0
+Package: enigma2-plugin-settings-vhannibal-quad-nordic
+Version: 1.0+git5+06a89c5_r0
 Section: base
 Architecture: all
-MD5Sum: 68694a35cf4308484c93a6a92618b1d4
-Size: 39218
-Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings 19e-23e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-19e-23e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-16e
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 654afce65fdccdf1951f9c3edb4760e3
-Size: 31380
-Filename: enigma2-plugin-settings-dona-16e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 16e
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-16e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: bec99bfbaf5a5f01279bcee6c95cdd2e
-Size: 171798
-Filename: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-9e-7e-4.8e-1w-5w-27.5w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-quadri-13e-19e-9e-5w
-Version: 1.0+git74+8c4f376_r0
-Section: base
-Architecture: all
-MD5Sum: d6541d1f65b9bb69b965b99c03c22275
-Size: 86920
-Filename: enigma2-plugin-settings-gioppygio-quadri-13e-19e-9e-5w_1.0+git74+8c4f376_r0_all.ipk
-Description: gioppygio enigma2 settings quadri-13e-19e-9e-5w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://picons.gioppygio.it/
-OE: enigma2-plugin-settings-gioppygio-quadri-13e-19e-9e-5w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-19e-16e-13e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 22336e81938cea3fbc4db1d9215456f0
-Size: 104500
-Filename: enigma2-plugin-settings-dona-19e-16e-13e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 19e-16e-13e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-19e-16e-13e-1w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
-Version: 1.0+git4+c0098fc_r0
-Section: base
-Architecture: all
-MD5Sum: 7865eab55beb3e64f919619ab4fe4b6d
-Size: 258650
-Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git4+c0098fc_r0_all.ipk
-Description: vhannibal enigma2 settings 13e-19e-23e-28e
+MD5Sum: afbce84b785079ce420e883bc2498c90
+Size: 200804
+Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git5+06a89c5_r0_all.ipk
+Description: vhannibal enigma2 settings quad-nordic
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+OE: enigma2-plugin-settings-vhannibal-quad-nordic
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-19e-16e-13e
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: 89ca9e8003a7cbdbb024975c79be9585
+Size: 83298
+Filename: enigma2-plugin-settings-dona-19e-16e-13e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e-13e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-19e-16e-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w
+Version: 1.0+git6+4ac2504_r0
+Section: base
+Architecture: all
+MD5Sum: b64d42039e3a3a0c45cec0671fe2615a
+Size: 122306
+Filename: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 23.5e-19e-16e-13e-1.9e-1w
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e-16e-19e
+Version: 1.0+git75+d6f809e_r0
+Section: base
+Architecture: all
+MD5Sum: b0398a255ca8b631aac7b13303f63ccd
+Size: 71684
+Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e_1.0+git75+d6f809e_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-16e-19e
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-16e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-matze-kabel-deutschland
+Version: 1.0+git12+cf22331_r0
+Section: base
+Architecture: all
+MD5Sum: f837f6958b76bf0f8a0f849c8a8145c9
+Size: 10102
+Filename: enigma2-plugin-settings-matze-kabel-deutschland_1.0+git12+cf22331_r0_all.ipk
+Description: matze enigma2 settings kabel-deutschland
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: http://matzesetting.brinkster.net
+OE: enigma2-plugin-settings-matze-kabel-deutschland
 License: Proprietary
 
 
@@ -1303,21 +1333,6 @@ OE: enigma2-plugin-settings-morpheus883-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-matze-astra
-Version: 1.0+git11+76ee1c6_r0
-Section: base
-Architecture: all
-MD5Sum: ee75f305e31ecdbe580836492d39e0cd
-Size: 27670
-Filename: enigma2-plugin-settings-matze-astra_1.0+git11+76ee1c6_r0_all.ipk
-Description: matze enigma2 settings astra
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-astra
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-henksat-13e-19e
 Version: 1.0+git66+149aa85_r0
 Section: base
@@ -1333,48 +1348,33 @@ OE: enigma2-plugin-settings-henksat-13e-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
-Version: 1.0+git3+be3146d_r0
+Package: enigma2-plugin-settings-dona-19e-16e
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: a4111f36112d692cfa340ee19e7791b2
-Size: 1234688
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings 9e-13e-19e-23e-28e-rotating
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-28e-19e-16e-13e
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: fd09f69a3e966fc8693ddcf7f3594724
-Size: 92348
-Filename: enigma2-plugin-settings-dona-28e-19e-16e-13e_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 28e-19e-16e-13e
+MD5Sum: 3a5ed2bb294da4d7612f1d65edd2a4bc
+Size: 53536
+Filename: enigma2-plugin-settings-dona-19e-16e_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 19e-16e
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-28e-19e-16e-13e
+OE: enigma2-plugin-settings-dona-19e-16e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-19e-23e-28e
-Version: 1.0+git3+be3146d_r0
+Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
+Version: 1.0+git6+4ac2504_r0
 Section: base
 Architecture: all
-MD5Sum: a229437374b6022bf25177689b0b4cfb
-Size: 855364
-Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git3+be3146d_r0_all.ipk
-Description: hans enigma2 settings 19e-23e-28e
+MD5Sum: e01283e6727439b44882d05d952005c3
+Size: 162180
+Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w_1.0+git6+4ac2504_r0_all.ipk
+Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-19e-23e-28e
+Source: https://github.com/OpenVisionE2/Dona-settings
+OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w-4w-5w
 License: Proprietary
 
 
@@ -1390,21 +1390,6 @@ Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
 OE: enigma2-plugin-settings-ciefp-28e.23e.19e.16e.13e.4.8e.1.9e.0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w
-Version: 1.0+git5+e730795_r0
-Section: base
-Architecture: all
-MD5Sum: 0f9fea68577703e2d3d6510d4089eda3
-Size: 145174
-Filename: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w_1.0+git5+e730795_r0_all.ipk
-Description: dona enigma2 settings 28e-23.5e-19e-16e-13e-9e-1.9e-1w
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-Priority: optional
-Source: https://github.com/OpenVisionE2/Dona-settings
-OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w
 License: Proprietary
 
 
@@ -1435,6 +1420,21 @@ Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
+Version: 1.0+git4+4f0fb2f_r0
+Section: base
+Architecture: all
+MD5Sum: 9b00616e583a332446eb05deab418a8d
+Size: 1234660
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git4+4f0fb2f_r0_all.ipk
+Description: hans enigma2 settings 9e-13e-19e-23e-28e-rotating
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
 License: Proprietary
 
 
