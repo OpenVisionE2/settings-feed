@@ -13,7 +13,7 @@ PD=${D}/$LOCAL
 B=${D}/build
 TMP=${D}/tmp
 R=${D}/feed
-Homepage="http://picons.gioppygio.it/"
+Homepage="https://gioppygio.it"
 GitSource="https://github.com/OpenVisionE2/GioppyGio-settings"
 
 function MakeIPK ()
@@ -71,15 +71,15 @@ mkdir -p ${R}
 
 rm -rf ${D}/feed/${PACKNAME}*.ipk
 
-MakeIPK GioppyGio_E2_Dual_13E+19E dual-13e-19e ${VER}
-MakeIPK GioppyGio_E2_Dual_5W+13E dual-5w-13e ${VER}
-MakeIPK GioppyGio_E2_Dual_9E+13E dual e9-13e ${VER}
-MakeIPK GioppyGio_E2_Mono_13E mono-13e ${VER}
+MakeIPK GioppyGio_E2_Dual_13E+19E 13e-19e ${VER}
+MakeIPK GioppyGio_E2_Dual_5W+13E 5w-13e ${VER}
+MakeIPK GioppyGio_E2_Dual_9E+13E e9-13e ${VER}
+MakeIPK GioppyGio_E2_Mono_13E 13e ${VER}
 MakeIPK GioppyGio_E2_Motor_75E-45W motor-75e-45w ${VER}
-MakeIPK GioppyGio_E2_Quadri_13E+16E+19E+30W quadri-13e-16e-19e-30w ${VER}
-MakeIPK GioppyGio_E2_Quadri_13E+19E+9E+5W quadri-13e-19e-9e-5w ${VER}
-MakeIPK GioppyGio_E2_Quadri_9E+13E+16E+19E quadri-9e-13e-16e-19e ${VER}
-MakeIPK GioppyGio_E2_Trial_13E+16E+19E trial-13e-16e-19e ${VER}
-MakeIPK GioppyGio_E2_Trial_13E+19E+30W trial-13e-19e-30w ${VER}
-MakeIPK GioppyGio_E2_Trial_5W+13E+19E trial-5w-13e-19e ${VER}
-MakeIPK GioppyGio_E2_Trial_9E+13E+19E trial-9e-13e-19e ${VER}
+MakeIPK GioppyGio_E2_Quadri_13E+16E+19E+30W 13e-16e-19e-30w ${VER}
+MakeIPK GioppyGio_E2_Quadri_13E+19E+9E+5W 13e-19e-9e-5w ${VER}
+MakeIPK GioppyGio_E2_Quadri_9E+13E+16E+19E 9e-13e-16e-19e ${VER}
+MakeIPK GioppyGio_E2_Trial_13E+16E+19E 13e-16e-19e ${VER}
+MakeIPK GioppyGio_E2_Trial_13E+19E+30W 13e-19e-30w ${VER}
+MakeIPK GioppyGio_E2_Trial_5W+13E+19E 5w-13e-19e ${VER}
+MakeIPK GioppyGio_E2_Trial_9E+13E+19E 9e-13e-19e ${VER}

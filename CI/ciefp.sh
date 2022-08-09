@@ -72,13 +72,13 @@ mkdir -p ${R}
 rm -rf ${D}/feed/${PACKNAME}*.ipk
 
 MakeIPK ciefp-E2-1sat-19E 19e ${VER}
-MakeIPK ciefp-E2-2sat-19E-16E 19e.16e ${VER}
-MakeIPK ciefp-E2-3sat-19E-16E-13E 19e.16e.13e ${VER}
-MakeIPK ciefp-E2-4sat-19E-16E-13E-0.8W 19e.16e.13e.0.8w ${VER}
-MakeIPK ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W 19e.16e.13e.1.9e.0.8w ${VER}
-MakeIPK ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W 23e.19e.16e.13e.1.9e.0.8w ${VER}
-MakeIPK ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W 23e.19e.16e.13e.1.9e.0.8w ${VER}
-MakeIPK ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W 28e.23e.19e.16e.13e.4.8e.1.9e.0.8w ${VER}
-MakeIPK ciefp-E2-9sat-39E-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W 39e.23e.19e.16e.13e.4.8e.1.9e.0.8w ${VER}
-MakeIPK ciefp-E2-motor-68E-30W-VOD motor.68e.30w.vod ${VER}
+MakeIPK ciefp-E2-2sat-19E-16E 19e-16e ${VER}
+MakeIPK ciefp-E2-3sat-19E-16E-13E 19e-16e-13e ${VER}
+MakeIPK ciefp-E2-4sat-19E-16E-13E-0.8W 19e-16e-13e-0.8w ${VER}
+MakeIPK ciefp-E2-5sat-19E-16E-13E-1.9E-0.8W 19e-16e-13e-1.9e-0.8w ${VER}
+MakeIPK ciefp-E2-6sat-23E-19E-16E-13E-1.9E-0.8W 23e-19e-16e-13e-1.9e-0.8w ${VER}
+MakeIPK ciefp-E2-7sat-23E-19E-16E-13E-4.8E-1.9E-0.8W 23e-19e-16e-13e-4.8e-1.9e-0.8w ${VER}
+MakeIPK ciefp-E2-8sat-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W 28e-23e-19e-16e-13e-4.8e-1.9e-0.8w ${VER}
+MakeIPK ciefp-E2-9sat-39E-28E-23E-19E-16E-13E-4.8E-1.9E-0.8W 39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w ${VER}
+MakeIPK ciefp-E2-motor-68E-30W-VOD motor-68e-30w-vod ${VER}
 

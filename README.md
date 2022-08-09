@@ -16,3 +16,5 @@ Vhannibal -> https://github.com/oe-alliance/oe-alliance-settings
 GioppyGio -> https://github.com/OpenVisionE2/GioppyGio-settings
 
 Matze -> https://github.com/OpenVisionE2/Matze-settings
+
+Dona -> https://github.com/OpenVisionE2/Dona-settings

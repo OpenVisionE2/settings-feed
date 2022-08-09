@@ -2,7 +2,7 @@
 
 # Script by jbleyel for https://github.com/oe-alliance
 
-PVER="1.2"
+PVER="1.0"
 PR="r0"
 PACK="hans"
 LOCAL="local"
@@ -71,9 +71,9 @@ mkdir -p ${R}
 
 rm -rf ${D}/feed/${PACKNAME}*.ipk
 
-MakeIPK e2_hanssettings_19e_23e_basis 19e-23e-basis ${VER}
+MakeIPK e2_hanssettings_19e_23e_basis 19e-23e ${VER}
 MakeIPK e2_hanssettings_19e_23e_28e 19e-23e-28e ${VER}
 MakeIPK e2_hanssettings_13e_19e_23e_28e 13e-19e-23e-28e ${VER}
 MakeIPK e2_hanssettings_9e_13e_19e_23e_28e 9e-13e-19e-23e-28e ${VER}
 MakeIPK e2_hanssettings_9e_13e_19e_23e_28e_AND_rotating 9e-13e-19e-23e-28e-rotating ${VER}
-MakeIPK e2_hanssettings_kabelNL kabelNL ${VER}
+MakeIPK e2_hanssettings_kabelNL kabelnl ${VER}
