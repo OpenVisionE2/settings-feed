@@ -2,7 +2,7 @@
 
 # Script by jbleyel for https://github.com/oe-alliance
 
-PVER="1.0"
+PVER="1.1"
 PR="r0"
 PACK="morpheus883"
 LOCAL="local"
@@ -47,6 +47,7 @@ EOF
     tar -C ${TMP} -czf ${B}/data.tar.gz .
     echo "2.0" > ${B}/debian-binary
 	cd ${B}
+	ls -l
 	ar -r ${R}/${PKG} ./debian-binary ./control.tar.gz ./data.tar.gz 
 	cd ${D}
 
@@ -62,6 +63,13 @@ fi
 echo $GITHASH > $PACK.hash
 rm -rf ${PD}
 git clone --depth 1 ${Homepage} local
+
+find ${PD} -name '*.xml*' -type f | xargs rm -f
+find ${PD} -name '*.url*' -type f | xargs rm -f
+find ${PD} -name '*_org*' -type f | xargs rm -f
+find ${PD} -name '*.org*' -type f | xargs rm -f
+find ${PD} -name '*_bak*' -type f | xargs rm -f
+find ${PD} -name '*.bak*' -type f | xargs rm -f
 
 VER="$PVER+git$GITCOMMITS+${GITHASH}_r0"
 
