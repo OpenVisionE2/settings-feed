@@ -2,7 +2,7 @@
 
 # Script by jbleyel for https://github.com/oe-alliance
 
-PVER="1.0"
+PVER="1.1"
 PR="r0"
 PACK="henksat"
 LOCAL="local"
@@ -63,6 +63,13 @@ fi
 echo $GITHASH > $PACK.hash
 rm -rf ${PD}
 git clone --depth 1 ${Homepage} local
+
+find ${PD} -name '*.xml*' -type f | xargs rm -f
+find ${PD} -name '*.url*' -type f | xargs rm -f
+find ${PD} -name '*_org*' -type f | xargs rm -f
+find ${PD} -name '*.org*' -type f | xargs rm -f
+find ${PD} -name '*_bak*' -type f | xargs rm -f
+find ${PD} -name '*.bak*' -type f | xargs rm -f
 
 VER="$PVER+git$GITCOMMITS+${GITHASH}_r0"
 
