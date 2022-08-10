@@ -18,6 +18,7 @@ commit_files() {
  ./CI/vhannibal.sh
  ./CI/matze.sh
  ./CI/dona.sh
+ echo "no" > force
 
  cd feed
  rm -f ./feed/Packages.gz &> /dev/null

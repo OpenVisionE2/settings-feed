@@ -58,7 +58,9 @@ GITCOMMITS=$(curl  --silent -I -k "https://api.github.com/repos/$GITREPRO/commit
 GITHASH=$(git ls-remote https://github.com/$GITREPRO HEAD | sed -e 's/^\(.\{7\}\).*/\1/')
 OLDHASH=$(head -n 1 $PACK.hash 2>/dev/null)
 
-if [ "$OLDHASH" == "$GITHASH" ]; then
+FORCECHECK=`cat force`
+
+if [ "$OLDHASH" == "$GITHASH" ] && [ "$FORCECHECK" == "no" ]; then
     exit 0
 fi
 echo $GITHASH > $PACK.hash
