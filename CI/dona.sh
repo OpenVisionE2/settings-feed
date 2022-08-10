@@ -33,7 +33,7 @@ Version: ${3}
 Description: ${PACK} enigma2 settings ${2}
 Section: base
 Priority: optional
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Maintainer: Open Vision developers <forum.openvision.tech>
 License: Proprietary
 Architecture: all
 OE: ${PACKNAME}-${2}
