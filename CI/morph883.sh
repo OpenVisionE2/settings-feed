@@ -33,7 +33,7 @@ Version: ${3}
 Description: ${PACK} enigma2 settings ${2}
 Section: base
 Priority: optional
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+Maintainer: morpheus883 <morph883@hotmail.com>
 License: Proprietary
 Architecture: all
 OE: ${PACKNAME}-${2}
