@@ -18,3 +18,5 @@ GioppyGio -> https://github.com/OpenVisionE2/GioppyGio-settings
 Matze -> https://github.com/OpenVisionE2/Matze-settings
 
 Dona -> https://github.com/OpenVisionE2/Dona-settings
+
+Predrag -> https://github.com/OpenVisionE2/Predrag-settings
