@@ -13,6 +13,21 @@ OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-vhannibal-motor
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: b76a69f4503f14adad70ef298018c843
+Size: 393022
+Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings motor
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-motor
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-ciefp-19e
 Version: 1.1+git218+49ef45c_r0
 Section: base
@@ -55,6 +70,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-quad-nordic
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: d534376be5abcaf9a1ffa42ee93277e4
+Size: 200226
+Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings quad-nordic
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-quad-nordic
 License: Proprietary
 
 
@@ -403,6 +433,21 @@ OE: enigma2-plugin-settings-predrag-19e-16e-13e-9e-7e-5w
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-vhannibal-hotbird
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: 4fd510c81e500153146ca37ebb83f33b
+Size: 203758
+Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings hotbird
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-hotbird
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-dona-16e
 Version: 1.0+git3+222c9d7_r0
 Section: base
@@ -505,6 +550,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
 OE: enigma2-plugin-settings-gioppygio-13e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: 3842a6f8e2be3b0da96847205eabcb91
+Size: 261612
+Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings 13e-19e-23e-28e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
 License: Proprietary
 
 
@@ -643,21 +703,6 @@ OE: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-hotbird
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: e30d8a9e158f6e9eb223cf195a5e634f
-Size: 203638
-Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings hotbird
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-hotbird
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-motor
 Version: 1.1+git295+597651b_r0
 Section: base
@@ -703,21 +748,6 @@ OE: enigma2-plugin-settings-henksat-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: f4c675ee15858ad50cd3534fd16ab7d3
-Size: 261748
-Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings 13e-19e-23e-28e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-28.2e
 Version: 1.1+git295+597651b_r0
 Section: base
@@ -730,6 +760,21 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-28.2e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-dual
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: 4315d651484df8110c90948e7dc36238
+Size: 229218
+Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings dual
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-dual
 License: Proprietary
 
 
@@ -763,18 +808,18 @@ OE: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-motor
-Version: 1.0+git10+bcc25ba_r0
+Package: enigma2-plugin-settings-vhannibal-trial
+Version: 1.0+git11+e54a6a3_r0
 Section: base
 Architecture: all
-MD5Sum: 80aab7fa680d6c04bda442cffc7b0937
-Size: 394516
-Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings motor
+MD5Sum: 61713fc65c4b8e5548cee669306eede7
+Size: 235096
+Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings trial
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-motor
+OE: enigma2-plugin-settings-vhannibal-trial
 License: Proprietary
 
 
@@ -1078,21 +1123,6 @@ OE: enigma2-plugin-settings-dona-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-quad-nordic
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: d9b5060782edf71d1b4967dc09b78e6e
-Size: 202366
-Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings quad-nordic
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-quad-nordic
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
 Version: 1.1+git295+597651b_r0
 Section: base
@@ -1120,36 +1150,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-dual
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: 304106077e6f2145031e302b70903e55
-Size: 229166
-Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings dual
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-dual
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: 2d0af48870a9881ff9d89ee00777f71d
-Size: 196458
-Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings 7e-13e-19e-42e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
 License: Proprietary
 
 
@@ -1270,21 +1270,6 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e-42e-7e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-trial
-Version: 1.0+git10+bcc25ba_r0
-Section: base
-Architecture: all
-MD5Sum: 6391a5c6c44e5ae72db2a2e825abfb66
-Size: 239062
-Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git10+bcc25ba_r0_all.ipk
-Description: vhannibal enigma2 settings trial
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-trial
 License: Proprietary
 
 
@@ -1469,12 +1454,12 @@ License: Proprietary
 
 
 Package: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
-Version: 1.0+git10+bcc25ba_r0
+Version: 1.0+git11+e54a6a3_r0
 Section: base
 Architecture: all
-MD5Sum: 938727f94f56ad84e97f36e17c67f68c
-Size: 251996
-Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git10+bcc25ba_r0_all.ipk
+MD5Sum: d2b6d7ea02f91ee8fc151db1f3233e34
+Size: 251978
+Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git11+e54a6a3_r0_all.ipk
 Description: vhannibal enigma2 settings 9e-13e-16e-19e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
@@ -1645,6 +1630,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gitlab.openpli.org/openpli/hanssettings
 OE: enigma2-plugin-settings-hans-19e-23e-28e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
+Version: 1.0+git11+e54a6a3_r0
+Section: base
+Architecture: all
+MD5Sum: abb8cd379924471eab61c58dc704e716
+Size: 192168
+Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git11+e54a6a3_r0_all.ipk
+Description: vhannibal enigma2 settings 7e-13e-19e-42e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
 License: Proprietary
 
 
