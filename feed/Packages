@@ -73,6 +73,21 @@ OE: enigma2-plugin-settings-henksat-19e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: c8092c8416d353a5ca024460f99f8b63
+Size: 339870
+Filename: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-predrag-19e-13e-30w
 Version: 1.0+git4+d30a1e8_r0
 Section: base
@@ -85,21 +100,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-19e-13e-30w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 423d5f28afcf64fd7d87166f22aba2b1
-Size: 271084
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e
 License: Proprietary
 
 
@@ -223,21 +223,6 @@ OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 125d363f628866fc9ed6a7a42742e79d
-Size: 368936
-Filename: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-motor
 Version: 1.1+git315+c88ddd7_r0
 Section: base
@@ -295,6 +280,36 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-motor-42e-30w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e-16e
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: e1fdef493de08acf4067a13d2de60ae5
+Size: 244320
+Filename: enigma2-plugin-settings-ciefp-19e-16e_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: fa908251ba81465019a12bb5d0084027
+Size: 223780
+Filename: enigma2-plugin-settings-ciefp-19e_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 19e
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e
 License: Proprietary
 
 
@@ -370,6 +385,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: dc5d01fb89ba70a5160c68667fe9b3a6
+Size: 328620
+Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 23e-19e-16e-13e-4.8e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
@@ -493,21 +523,6 @@ OE: enigma2-plugin-settings-gioppygio-5w-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 110a07b9def6cd3cdcc98761f5962e35
-Size: 465840
-Filename: enigma2-plugin-settings-ciefp-motor-68e-30w-vod_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings motor-68e-30w-vod
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-16e
 Version: 1.0+git4+47d9481_r0
 Section: base
@@ -520,6 +535,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-16e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: d55e5013e9d3ebd81097d4cf265a6c9c
+Size: 299096
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
 License: Proprietary
 
 
@@ -580,6 +610,21 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: 187eadd1654279eb857d0f3009a45c6e
+Size: 466808
+Filename: enigma2-plugin-settings-ciefp-motor-68e-30w-vod_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings motor-68e-30w-vod
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
 License: Proprietary
 
 
@@ -733,21 +778,6 @@ OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 2402ac69760b85abacc11aeb6e9088f2
-Size: 295918
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
 Version: 1.1+git315+c88ddd7_r0
 Section: base
@@ -808,21 +838,6 @@ OE: enigma2-plugin-settings-dona-19e-16e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-19e-16e
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 4d9231cbb98d7ce6ff4607121b98a6fe
-Size: 241950
-Filename: enigma2-plugin-settings-ciefp-19e-16e_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
 Version: 1.1+git315+c88ddd7_r0
 Section: base
@@ -850,21 +865,6 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-19.2e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: 5d6c6e1fba66e3565493075ab1d451a8
-Size: 221572
-Filename: enigma2-plugin-settings-ciefp-19e_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 19e
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e
 License: Proprietary
 
 
@@ -928,18 +928,18 @@ OE: enigma2-plugin-settings-morpheus883-30w-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
-Version: 1.1+git235+20da92f_r0
+Package: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
 Section: base
 Architecture: all
-MD5Sum: d122f0e4197a5e08ee6210644ddf4c93
-Size: 302036
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e-1.9e-0.8w
+MD5Sum: 54937c834de692859f6da597425da89a
+Size: 370290
+Filename: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
+OE: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
@@ -1258,6 +1258,21 @@ OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: ff58fc39986afedd77a6e58be126b786
+Size: 273274
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-henksat-19e-23e
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -1270,21 +1285,6 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-19e-23e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: e785cb82f4434fe29ac701ecd5aa5f06
-Size: 325712
-Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 23e-19e-16e-13e-4.8e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
@@ -1468,21 +1468,6 @@ OE: enigma2-plugin-settings-morpheus883-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
-Version: 1.1+git235+20da92f_r0
-Section: base
-Architecture: all
-MD5Sum: dadf3c2c21b8b519956eda5da5e0499e
-Size: 318302
-Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 23e-19e-16e-13e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-19e-13e
 Version: 1.0+git4+47d9481_r0
 Section: base
@@ -1510,6 +1495,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-28e-23.5e-19e-16e-13e-9e-7e-4.8e-0.8w-4w-5w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
+Section: base
+Architecture: all
+MD5Sum: 1a2b7af02909cdab7c0a5a6359a22f6f
+Size: 321046
+Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 23e-19e-16e-13e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
 License: Proprietary
 
 
@@ -1633,18 +1633,18 @@ OE: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git235+20da92f_r0
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
+Version: 1.1+git236+5b8b5b6_r0
 Section: base
 Architecture: all
-MD5Sum: cefbec6e3953ee5b3b5e6d430049c968
-Size: 336268
-Filename: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git235+20da92f_r0_all.ipk
-Description: ciefp enigma2 settings 28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+MD5Sum: 18514b477fac027461a6790940fe0334
+Size: 305498
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w_1.1+git236+5b8b5b6_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e-1.9e-0.8w
 Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
 License: Proprietary
 
 
