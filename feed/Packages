@@ -13,21 +13,6 @@ OE: enigma2-plugin-settings-morpheus883-9e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-13e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 56cbae115474b2f65089ca3dd7480872
-Size: 33862
-Filename: enigma2-plugin-settings-gioppygio-13e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
 Version: 1.0+git4+47d9481_r0
 Section: base
@@ -88,6 +73,36 @@ OE: enigma2-plugin-settings-henksat-23e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-vhannibal-dual
+Version: 1.0+git40+f5cf2d9_r0
+Section: base
+Architecture: all
+MD5Sum: f55001332dfb7012608c17537cf30e68
+Size: 225574
+Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings dual
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-dual
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e-19e-30w
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: cafe1164607171d5d141c86b1d226dd6
+Size: 60138
+Filename: enigma2-plugin-settings-gioppygio-13e-19e-30w_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e-30w
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e-30w
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-predrag-42e-39e-28e-23.5e-19e-16e-13e-9e-7e-1.9e-0.8w-4w-5w
 Version: 1.0+git4+d30a1e8_r0
 Section: base
@@ -100,6 +115,51 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-42e-39e-28e-23.5e-19e-16e-13e-9e-7e-1.9e-0.8w-4w-5w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: c85c0b10dd662a2f1dfcb2dcc9297c0f
+Size: 81784
+Filename: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e-9e-5w
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: ba09c6f5fa0f105ff5f7f1b2a064570f
+Size: 310468
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-trial
+Version: 1.0+git40+f5cf2d9_r0
+Section: base
+Architecture: all
+MD5Sum: a7baf182193639092f6fd91f8181e08d
+Size: 231208
+Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings trial
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-trial
 License: Proprietary
 
 
@@ -118,48 +178,18 @@ OE: enigma2-plugin-settings-morpheus883-13e-42e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-19e-23e
-Version: 1.0+git12+7835feb_r0
+Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+Version: 1.0+git40+f5cf2d9_r0
 Section: base
 Architecture: all
-MD5Sum: a8f19258d21f9ed2e0afd8b5c01210c2
-Size: 38324
-Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings 19e-23e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-19e-23e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-motor
-Version: 1.0+git+257e984_r0
-Section: base
-Architecture: all
-MD5Sum: 260051e615435334118f709a2942addf
-Size: 383518
-Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings motor
+MD5Sum: 6f2cfc15d5de01e972da14ae558b9d6b
+Size: 263816
+Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings 13e-19e-23e-28e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-motor
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-13e-16e-19e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 2693f08ff96582088b11954d50564bb4
-Size: 68076
-Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e-16e-19e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e-16e-19e
+OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
 License: Proprietary
 
 
@@ -208,18 +238,18 @@ OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-4.8e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-13e-19e-23e-28e
-Version: 1.0+git12+7835feb_r0
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
+Version: 1.1+git250+d5bad15_r0
 Section: base
 Architecture: all
-MD5Sum: bea5b6182dbbb798fd43a46e2ea62c30
-Size: 929354
-Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings 13e-19e-23e-28e
-Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 645a451dd1365bfe926eed59f98b1646
+Size: 343030
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
 License: Proprietary
 
 
@@ -253,6 +283,21 @@ OE: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-gioppygio-e9-13e
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: cf6e44245477312cf9da9f8dec1d8f0f
+Size: 49292
+Filename: enigma2-plugin-settings-gioppygio-e9-13e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings e9-13e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-e9-13e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-predrag-19e-13e-30w
 Version: 1.0+git4+d30a1e8_r0
 Section: base
@@ -265,21 +310,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-19e-13e-30w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-e9-13e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 3038d48a8491241f79f65cf20e56b7bf
-Size: 50810
-Filename: enigma2-plugin-settings-gioppygio-e9-13e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings e9-13e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-e9-13e
 License: Proprietary
 
 
@@ -313,18 +343,33 @@ OE: enigma2-plugin-settings-predrag-42e-39e-28e-23.5e-19e-16e-13e-9e-7e-1.9e-0.8
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
-Version: 1.0+git+257e984_r0
+Package: enigma2-plugin-settings-vhannibal-hotbird
+Version: 1.0+git40+f5cf2d9_r0
 Section: base
 Architecture: all
-MD5Sum: f4b162059a7bd06ad239357a1fb24615
-Size: 264068
-Filename: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings 13e-19e-23e-28e
+MD5Sum: b8c1f9f37cbded69b2020463683c6c87
+Size: 200886
+Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings hotbird
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
+OE: enigma2-plugin-settings-vhannibal-hotbird
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: 1e840d99626ba3122b1177029fc6936d
+Size: 376536
+Filename: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
@@ -418,21 +463,6 @@ OE: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-19e-16e
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: 701258899ced2325c383bfc5692c04cd
-Size: 255232
-Filename: enigma2-plugin-settings-ciefp-19e-16e_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-henksat-13e-19e-23e-28e-4.8e-0.8w
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -445,36 +475,6 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e-4.8e-0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-Version: 1.0+git+257e984_r0
-Section: base
-Architecture: all
-MD5Sum: d8f1748c35d4a24653cba42b780f733d
-Size: 191956
-Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings 7e-13e-19e-42e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 94dc313a9e1d7b9b972a1e0acfb5cbdd
-Size: 86122
-Filename: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 9e-13e-16e-19e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
 License: Proprietary
 
 
@@ -508,18 +508,33 @@ OE: enigma2-plugin-settings-dona-28e-23.5e-19e-16e-13e-9e-1.9e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-5w-13e-19e
-Version: 1.0+git+5673f68_r0
+Package: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
+Version: 1.0+git101+594f18d_r0
 Section: base
 Architecture: all
-MD5Sum: 731cb5f34af56811bd8024e60bd6793b
-Size: 66106
-Filename: enigma2-plugin-settings-gioppygio-5w-13e-19e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 5w-13e-19e
+MD5Sum: 9ddff74835f4fdc1fc4e71642ee51c8b
+Size: 84166
+Filename: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 9e-13e-16e-19e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-5w-13e-19e
+OE: enigma2-plugin-settings-gioppygio-9e-13e-16e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e-16e
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: 6682859e89c6c4ad58e20ca573d055c8
+Size: 281626
+Filename: enigma2-plugin-settings-ciefp-19e-16e_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e
 License: Proprietary
 
 
@@ -550,6 +565,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-hans-19e-23e-28e
+Version: 1.0+git13+6bfc1ad_r0
+Section: base
+Architecture: all
+MD5Sum: aa39f53ec5dd46ecbf2bbbb81319e2c7
+Size: 901048
+Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings 19e-23e-28e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-19e-23e-28e
 License: Proprietary
 
 
@@ -628,48 +658,18 @@ OE: enigma2-plugin-settings-predrag-19e-16e-13e-9e-7e-5w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: adef6c9675dcf83e9c2bce85f9d1271d
-Size: 479030
-Filename: enigma2-plugin-settings-ciefp-motor-68e-30w-vod_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings motor-68e-30w-vod
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git249+142ec59_r0
+Version: 1.1+git250+d5bad15_r0
 Section: base
 Architecture: all
-MD5Sum: 90371b79b365f0be049c6cc4db82a7a8
-Size: 385490
-Filename: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git249+142ec59_r0_all.ipk
+MD5Sum: 908f1765fb7f53a341574bfd9def8789
+Size: 406452
+Filename: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git250+d5bad15_r0_all.ipk
 Description: ciefp enigma2 settings 39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
 OE: enigma2-plugin-settings-ciefp-39e-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: 882a0775232f8f8e06fbce1b1fa28116
-Size: 314120
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
 License: Proprietary
 
 
@@ -703,18 +703,33 @@ OE: enigma2-plugin-settings-morpheus883-13e-23.5e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
-Version: 1.0+git12+7835feb_r0
+Package: enigma2-plugin-settings-gioppygio-13e-19e
+Version: 1.0+git101+594f18d_r0
 Section: base
 Architecture: all
-MD5Sum: 087cf314b5bdf1266055aa301916b7bf
-Size: 1298910
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings 9e-13e-19e-23e-28e-rotating
+MD5Sum: 02adbdf22e63a843f46523884fb20f96
+Size: 55440
+Filename: enigma2-plugin-settings-gioppygio-13e-19e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-19e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-hans-kabelnl
+Version: 1.0+git13+6bfc1ad_r0
+Section: base
+Architecture: all
+MD5Sum: 10139d020f0f6e1af6f22626c0f047cc
+Size: 846648
+Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings kabelnl
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
+OE: enigma2-plugin-settings-hans-kabelnl
 License: Proprietary
 
 
@@ -760,6 +775,36 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-19.2e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: e5935adddb7beb578eb5f709119ab214
+Size: 358116
+Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 23e-19e-16e-13e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e-16e-19e
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: 7ee99219942664050075ddc55d3392e8
+Size: 67336
+Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-16e-19e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-16e-19e
 License: Proprietary
 
 
@@ -823,21 +868,6 @@ OE: enigma2-plugin-settings-henksat-wavefrontier
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-trial
-Version: 1.0+git+257e984_r0
-Section: base
-Architecture: all
-MD5Sum: 16428edd91777998433ad1f19b78169f
-Size: 230936
-Filename: enigma2-plugin-settings-vhannibal-trial_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings trial
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-trial
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-henksat-13e-19e-23e-28e-42e-7e
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -850,6 +880,21 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e-42e-7e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-hans-13e-19e-23e-28e
+Version: 1.0+git13+6bfc1ad_r0
+Section: base
+Architecture: all
+MD5Sum: f0c6201ef5e87992342475d2415c33ff
+Size: 929852
+Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings 13e-19e-23e-28e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
 License: Proprietary
 
 
@@ -868,33 +913,18 @@ OE: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git249+142ec59_r0
+Package: enigma2-plugin-settings-gioppygio-5w-13e
+Version: 1.0+git101+594f18d_r0
 Section: base
 Architecture: all
-MD5Sum: 500345026b077430ca9273a4f6ef5b29
-Size: 354290
-Filename: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+MD5Sum: 0536beadd0189a98bdfdb27cb4fb514b
+Size: 42698
+Filename: enigma2-plugin-settings-gioppygio-5w-13e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 5w-13e
+Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: c15c8b70e816151611dfd5787109cfd2
-Size: 234666
-Filename: enigma2-plugin-settings-ciefp-19e_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 19e
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-5w-13e
 License: Proprietary
 
 
@@ -943,63 +973,48 @@ OE: enigma2-plugin-settings-henksat-ziggo
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-dual
-Version: 1.0+git+257e984_r0
+Package: enigma2-plugin-settings-ciefp-19e
+Version: 1.1+git250+d5bad15_r0
 Section: base
 Architecture: all
-MD5Sum: a698559562b85846039e12b1cab802e9
-Size: 225880
-Filename: enigma2-plugin-settings-vhannibal-dual_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings dual
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-dual
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: 51426ce95b9eb7f77051129125127b15
-Size: 284378
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e
+MD5Sum: ad5d85b8d02aef5a37098c17cb174e9e
+Size: 261394
+Filename: enigma2-plugin-settings-ciefp-19e_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 19e
 Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
 Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e
+OE: enigma2-plugin-settings-ciefp-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
-Version: 1.1+git249+142ec59_r0
+Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
+Version: 1.0+git40+f5cf2d9_r0
 Section: base
 Architecture: all
-MD5Sum: f74473cfa9f1d6e70374b551812a8054
-Size: 342678
-Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 23e-19e-16e-13e-4.8e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-quad-nordic
-Version: 1.0+git+257e984_r0
-Section: base
-Architecture: all
-MD5Sum: 03b6a8db8bcce457e8f85cd3f36f144b
-Size: 196280
-Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings quad-nordic
+MD5Sum: e14699c5d483ede2831ebb0fc06ea232
+Size: 192256
+Filename: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings 7e-13e-19e-42e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-quad-nordic
+OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: b3b98f743db198af50c5903c5b74a96b
+Size: 336430
+Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 19e-16e-13e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-19e-16e-13e-0.8w
 License: Proprietary
 
 
@@ -1018,21 +1033,6 @@ OE: enigma2-plugin-settings-matze-kabel-deutschland
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-13e-19e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 8a73060fbc2aaaebb20b45bcbe7f7bdc
-Size: 55964
-Filename: enigma2-plugin-settings-gioppygio-13e-19e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e-19e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e-19e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-19e-16e
 Version: 1.0+git4+47d9481_r0
 Section: base
@@ -1045,36 +1045,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-19e-16e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: 94189077f02dbf9dc07c7a2c06cb560f
-Size: 320670
-Filename: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 19e-16e-13e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-19e-16e-13e-1.9e-0.8w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-5w-13e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 73bd1dc0670e126e6acb46778d128b0a
-Size: 43554
-Filename: enigma2-plugin-settings-gioppygio-5w-13e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 5w-13e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-5w-13e
 License: Proprietary
 
 
@@ -1093,21 +1063,6 @@ OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-13e-19e-30w
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: b9a2d47a5879952427805926538f76ec
-Size: 60976
-Filename: enigma2-plugin-settings-gioppygio-13e-19e-30w_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e-19e-30w
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e-19e-30w
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-henksat-19e-23e
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -1123,18 +1078,33 @@ OE: enigma2-plugin-settings-henksat-19e-23e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
-Version: 1.0+git+5673f68_r0
+Package: enigma2-plugin-settings-gioppygio-9e-13e-19e
+Version: 1.0+git101+594f18d_r0
 Section: base
 Architecture: all
-MD5Sum: e4732c2f7933be01a1db61a4bcc6fcd2
-Size: 83702
-Filename: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e-19e-9e-5w
+MD5Sum: 6d8afb818242d3bbbfc211cdd40d75e2
+Size: 72294
+Filename: enigma2-plugin-settings-gioppygio-9e-13e-19e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 9e-13e-19e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
+OE: enigma2-plugin-settings-gioppygio-9e-13e-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: 2f553729c4ed8a1afc81affadea889bd
+Size: 72596
+Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e-16e-19e-30w
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
 License: Proprietary
 
 
@@ -1150,21 +1120,6 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-motor
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
-Version: 1.1+git249+142ec59_r0
-Section: base
-Architecture: all
-MD5Sum: f4297f3c8794338f3ef7db8699b3a71c
-Size: 335770
-Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w_1.1+git249+142ec59_r0_all.ipk
-Description: ciefp enigma2 settings 23e-19e-16e-13e-1.9e-0.8w
-Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
-Priority: optional
-Source: https://github.com/ciefp/ciefpsettings-enigma2
-OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-1.9e-0.8w
 License: Proprietary
 
 
@@ -1198,6 +1153,21 @@ OE: enigma2-plugin-settings-predrag-28e-23.5e-19e-16e-13e-9e-7e-4.8e-0.8w-4w-5w
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-gioppygio-motor-75e-45w
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: 9e87f2ffe17a9629ecd77079e81070d9
+Size: 245536
+Filename: enigma2-plugin-settings-gioppygio-motor-75e-45w_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings motor-75e-45w
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-motor-75e-45w
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-morpheus883-13e
 Version: 1.1+git325+be71c62_r0
 Section: base
@@ -1210,36 +1180,6 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
-Version: 1.0+git+257e984_r0
-Section: base
-Architecture: all
-MD5Sum: c49036b07787dfd62145aa939e043dae
-Size: 247556
-Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings 9e-13e-16e-19e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-gioppygio-9e-13e-19e
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: 845585d273ee89652571fb305fa56c2f
-Size: 73566
-Filename: enigma2-plugin-settings-gioppygio-9e-13e-19e_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 9e-13e-19e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-9e-13e-19e
 License: Proprietary
 
 
@@ -1285,6 +1225,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-9e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-quad-nordic
+Version: 1.0+git40+f5cf2d9_r0
+Section: base
+Architecture: all
+MD5Sum: c9274ea563f32616cee37a095f5cac0c
+Size: 196830
+Filename: enigma2-plugin-settings-vhannibal-quad-nordic_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings quad-nordic
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-quad-nordic
 License: Proprietary
 
 
@@ -1363,33 +1318,48 @@ OE: enigma2-plugin-settings-matze-astra
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-hans-19e-23e-28e
-Version: 1.0+git12+7835feb_r0
+Package: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
+Version: 1.1+git250+d5bad15_r0
 Section: base
 Architecture: all
-MD5Sum: a84a17c3b6a3c4e02b383e9b94cbc659
-Size: 900374
-Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings 19e-23e-28e
-Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 7081f6af95de5cd2470c0d850c21a5e7
+Size: 365148
+Filename: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings 23e-19e-16e-13e-4.8e-1.9e-0.8w
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
 Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-19e-23e-28e
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-23e-19e-16e-13e-4.8e-1.9e-0.8w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-vhannibal-hotbird
-Version: 1.0+git+257e984_r0
+Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
+Version: 1.0+git13+6bfc1ad_r0
 Section: base
 Architecture: all
-MD5Sum: 9398ff14d746ec8c9523184c72698827
-Size: 200592
-Filename: enigma2-plugin-settings-vhannibal-hotbird_1.0+git+257e984_r0_all.ipk
-Description: vhannibal enigma2 settings hotbird
+MD5Sum: d4ce4cc8d99df6a235fc6fce2bf3d6ef
+Size: 1411316
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings 9e-13e-19e-23e-28e-rotating
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
+Version: 1.0+git40+f5cf2d9_r0
+Section: base
+Architecture: all
+MD5Sum: 92b5c0613f001b08985146a55171e84c
+Size: 246964
+Filename: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings 9e-13e-16e-19e
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
-OE: enigma2-plugin-settings-vhannibal-hotbird
+OE: enigma2-plugin-settings-vhannibal-9e-13e-16e-19e
 License: Proprietary
 
 
@@ -1423,6 +1393,21 @@ OE: enigma2-plugin-settings-morpheus883-13e-28.2e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
+Version: 1.1+git250+d5bad15_r0
+Section: base
+Architecture: all
+MD5Sum: f15584cd0f25936ccebebd544f5fd5e1
+Size: 497814
+Filename: enigma2-plugin-settings-ciefp-motor-68e-30w-vod_1.1+git250+d5bad15_r0_all.ipk
+Description: ciefp enigma2 settings motor-68e-30w-vod
+Maintainer: Pavel Cief <35612046+ciefp@users.noreply.github.com>
+Priority: optional
+Source: https://github.com/ciefp/ciefpsettings-enigma2
+OE: enigma2-plugin-settings-ciefp-motor-68e-30w-vod
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
 Version: 1.1+git325+be71c62_r0
 Section: base
@@ -1438,36 +1423,6 @@ OE: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
-Version: 1.0+git+5673f68_r0
-Section: base
-Architecture: all
-MD5Sum: ebbd7e0e13469c9dcd2254042da85599
-Size: 73248
-Filename: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings 13e-16e-19e-30w
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-13e-16e-19e-30w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
-Version: 1.0+git12+7835feb_r0
-Section: base
-Architecture: all
-MD5Sum: 9c33fcfd684b5d84bcf8bfa24d2a5d27
-Size: 936340
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings 9e-13e-19e-23e-28e
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
 Version: 1.1+git325+be71c62_r0
 Section: base
@@ -1480,21 +1435,6 @@ Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
 OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-hans-kabelnl
-Version: 1.0+git12+7835feb_r0
-Section: base
-Architecture: all
-MD5Sum: c6b246259ca6afc4d99139c689330aec
-Size: 846374
-Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git12+7835feb_r0_all.ipk
-Description: hans enigma2 settings kabelnl
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: https://gitlab.openpli.org/openpli/hanssettings
-OE: enigma2-plugin-settings-hans-kabelnl
 License: Proprietary
 
 
@@ -1528,6 +1468,21 @@ OE: enigma2-plugin-settings-dona-motor-75e-30w
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-hans-19e-23e
+Version: 1.0+git13+6bfc1ad_r0
+Section: base
+Architecture: all
+MD5Sum: be0e2640155cf49ab06dae89d55c1ffd
+Size: 38464
+Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings 19e-23e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-19e-23e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-henksat-19e-23e-28e
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -1543,6 +1498,21 @@ OE: enigma2-plugin-settings-henksat-19e-23e-28e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
+Version: 1.0+git13+6bfc1ad_r0
+Section: base
+Architecture: all
+MD5Sum: 2bcc6c3ae2537e03f8d3031dcd26db36
+Size: 936864
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git13+6bfc1ad_r0_all.ipk
+Description: hans enigma2 settings 9e-13e-19e-23e-28e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gitlab.openpli.org/openpli/hanssettings
+OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
 Version: 1.0+git4+47d9481_r0
 Section: base
@@ -1555,6 +1525,36 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-13e
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: 254272ab37316d59207213fda5b5fe0c
+Size: 33064
+Filename: enigma2-plugin-settings-gioppygio-13e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 13e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-gioppygio-5w-13e-19e
+Version: 1.0+git101+594f18d_r0
+Section: base
+Architecture: all
+MD5Sum: 650434926b64049c9ffc562f2eb670d3
+Size: 65066
+Filename: enigma2-plugin-settings-gioppygio-5w-13e-19e_1.0+git101+594f18d_r0_all.ipk
+Description: gioppygio enigma2 settings 5w-13e-19e
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: https://gioppygio.it
+OE: enigma2-plugin-settings-gioppygio-5w-13e-19e
 License: Proprietary
 
 
@@ -1633,18 +1633,18 @@ OE: enigma2-plugin-settings-dona-19e-16e-13e-4.8e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-gioppygio-motor-75e-45w
-Version: 1.0+git+5673f68_r0
+Package: enigma2-plugin-settings-vhannibal-motor
+Version: 1.0+git40+f5cf2d9_r0
 Section: base
 Architecture: all
-MD5Sum: 3fd3f1b097f8f0e0e90dd3c67650655a
-Size: 248362
-Filename: enigma2-plugin-settings-gioppygio-motor-75e-45w_1.0+git+5673f68_r0_all.ipk
-Description: gioppygio enigma2 settings motor-75e-45w
+MD5Sum: b16745acf84a14ba3ecf701bb909ae90
+Size: 382584
+Filename: enigma2-plugin-settings-vhannibal-motor_1.0+git40+f5cf2d9_r0_all.ipk
+Description: vhannibal enigma2 settings motor
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
-Source: https://gioppygio.it
-OE: enigma2-plugin-settings-gioppygio-motor-75e-45w
+Source: https://www.vhannibal.net
+OE: enigma2-plugin-settings-vhannibal-motor
 License: Proprietary
 
 
