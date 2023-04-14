@@ -223,6 +223,21 @@ OE: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-matze-astra-hotbird
+Version: 1.0+git17+15f2be9_r0
+Section: base
+Architecture: all
+MD5Sum: 63fa97e058e52640ea4f246cf68f67d8
+Size: 52486
+Filename: enigma2-plugin-settings-matze-astra-hotbird_1.0+git17+15f2be9_r0_all.ipk
+Description: matze enigma2 settings astra-hotbird
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: http://matzesetting.brinkster.net
+OE: enigma2-plugin-settings-matze-astra-hotbird
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-predrag-motor-28e-30w
 Version: 1.0+git4+d30a1e8_r0
 Section: base
@@ -958,21 +973,6 @@ OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-matze-astra
-Version: 1.0+git16+35b2710_r0
-Section: base
-Architecture: all
-MD5Sum: 2a8713e1e2c94dd60ef51dc26e2b0967
-Size: 27118
-Filename: enigma2-plugin-settings-matze-astra_1.0+git16+35b2710_r0_all.ipk
-Description: matze enigma2 settings astra
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-astra
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-predrag-19e
 Version: 1.0+git4+d30a1e8_r0
 Section: base
@@ -1108,18 +1108,18 @@ OE: enigma2-plugin-settings-morpheus883-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-matze-astra-hotbird
-Version: 1.0+git16+35b2710_r0
+Package: enigma2-plugin-settings-matze-astra
+Version: 1.0+git17+15f2be9_r0
 Section: base
 Architecture: all
-MD5Sum: 4b37ddfb77e3acde343a4020ef5f62b7
-Size: 53372
-Filename: enigma2-plugin-settings-matze-astra-hotbird_1.0+git16+35b2710_r0_all.ipk
-Description: matze enigma2 settings astra-hotbird
+MD5Sum: 17dfab8512c227ad557498fcba81188d
+Size: 26818
+Filename: enigma2-plugin-settings-matze-astra_1.0+git17+15f2be9_r0_all.ipk
+Description: matze enigma2 settings astra
 Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-astra-hotbird
+OE: enigma2-plugin-settings-matze-astra
 License: Proprietary
 
 
@@ -1393,21 +1393,6 @@ OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e-4.8e-0.8w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-matze-kabel-deutschland
-Version: 1.0+git16+35b2710_r0
-Section: base
-Architecture: all
-MD5Sum: dde00892007b9d3464545c4f6612c861
-Size: 10170
-Filename: enigma2-plugin-settings-matze-kabel-deutschland_1.0+git16+35b2710_r0_all.ipk
-Description: matze enigma2 settings kabel-deutschland
-Maintainer: Open Vision developers <forum.openvision.tech>
-Priority: optional
-Source: http://matzesetting.brinkster.net
-OE: enigma2-plugin-settings-matze-kabel-deutschland
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-gioppygio-13e
 Version: 1.0+git105+980eb41_r0
 Section: base
@@ -1570,6 +1555,21 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-45e-45w-rotating
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-matze-kabel-deutschland
+Version: 1.0+git17+15f2be9_r0
+Section: base
+Architecture: all
+MD5Sum: 1e46cd557e4bc3085f28db48e8452fe4
+Size: 10176
+Filename: enigma2-plugin-settings-matze-kabel-deutschland_1.0+git17+15f2be9_r0_all.ipk
+Description: matze enigma2 settings kabel-deutschland
+Maintainer: Open Vision developers <forum.openvision.tech>
+Priority: optional
+Source: http://matzesetting.brinkster.net
+OE: enigma2-plugin-settings-matze-kabel-deutschland
 License: Proprietary
 
 
