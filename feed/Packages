@@ -13,6 +13,21 @@ OE: enigma2-plugin-settings-predrag-19e-16e-13e-9e-7e-5w
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 76875f25613eaefffd500bbaaadbfe3f
+Size: 70710
+Filename: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 0.8w-4.8e-13e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-dona-19e-16e-13e-1.9e-1w
 Version: 1.0+git5+6ce1b78_r0
 Section: base
@@ -43,18 +58,18 @@ OE: enigma2-plugin-settings-vhannibal-trial
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-42e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 015eaab0538aba371fdbfc39de547806
-Size: 58442
-Filename: enigma2-plugin-settings-morpheus883-13e-42e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-42e
+MD5Sum: 1a33acceeb71367cb68156f86ae2d7b6
+Size: 105070
+Filename: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-16e-19.2e-23.5e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-42e
+OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
 License: Proprietary
 
 
@@ -85,21 +100,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
 OE: enigma2-plugin-settings-gioppygio-9e-13e-19e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-13e-23.5e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: ae07f60e3e5dab84691e2120bb0d074e
-Size: 55542
-Filename: enigma2-plugin-settings-morpheus883-13e-23.5e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-23.5e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-23.5e
 License: Proprietary
 
 
@@ -193,21 +193,6 @@ OE: enigma2-plugin-settings-henksat-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-28.2e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 439f3050be28745b70f2b66804666241
-Size: 58052
-Filename: enigma2-plugin-settings-morpheus883-13e-28.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-28.2e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-28.2e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-gioppygio-5w-13e
 Version: 1.0+git120+e206c9e_r0
 Section: base
@@ -250,6 +235,21 @@ Maintainer: OpenPLi team <info@openpli.org>
 Priority: optional
 Source: https://github.com/OpenPLi/HenksatSettings
 OE: enigma2-plugin-settings-henksat-wavefrontier
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: bcdafbfeb3e1050851f4630d0fb25835
+Size: 88116
+Filename: enigma2-plugin-settings-morpheus883-13e-16e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-16e-19.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
 License: Proprietary
 
 
@@ -298,18 +298,33 @@ OE: enigma2-plugin-settings-predrag-19e-13e-30w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-4.8e-13e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-13e-19.2e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 5a86f7e17554a64cd4fe98a996afb166
-Size: 47192
-Filename: enigma2-plugin-settings-morpheus883-4.8e-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 4.8e-13e
+MD5Sum: 9f716f718f2d9cef777d4bf0097fdf77
+Size: 69342
+Filename: enigma2-plugin-settings-morpheus883-13e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-19.2e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-4.8e-13e
+OE: enigma2-plugin-settings-morpheus883-13e-19.2e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: bf5b8e1ccb483b8ed8a3061a1e7f00bc
+Size: 89150
+Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-19.2e-28.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
 License: Proprietary
 
 
@@ -325,36 +340,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-19e-16e-13e-1.9e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 093974a7a95f7d39841f85d675a8c40b
-Size: 86382
-Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-19.2e-23.5e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-30w-13e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: a683c6d14bf5ded470e1d47079a38402
-Size: 53344
-Filename: enigma2-plugin-settings-morpheus883-30w-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 30w-13e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-30w-13e
 License: Proprietary
 
 
@@ -508,6 +493,21 @@ OE: enigma2-plugin-settings-predrag-19e-13e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 52de85297dec291de71db36ca4a2a160
+Size: 78162
+Filename: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 4.8e-13e-19.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-10e-9e-4.8e-1.9e-1w
 Version: 1.0+git5+6ce1b78_r0
 Section: base
@@ -538,18 +538,18 @@ OE: enigma2-plugin-settings-dona-28e-19e-16e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: be5e4667084dc9d93a3c64b43b2f6687
-Size: 83710
-Filename: enigma2-plugin-settings-morpheus883-30w-13e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 30w-13e-19.2e
+MD5Sum: da44e14618a242957afec97337595779
+Size: 89942
+Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-42e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-19.2e-42e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
+OE: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
 License: Proprietary
 
 
@@ -583,18 +583,18 @@ OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-0.8w-13e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-4.8e-13e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: ce154171a558b64949e7698fed0eb441
-Size: 62040
-Filename: enigma2-plugin-settings-morpheus883-0.8w-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 0.8w-13e
+MD5Sum: a2eb2e5856bdd3d50378f85d3ba86b53
+Size: 47154
+Filename: enigma2-plugin-settings-morpheus883-4.8e-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 4.8e-13e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-0.8w-13e
+OE: enigma2-plugin-settings-morpheus883-4.8e-13e
 License: Proprietary
 
 
@@ -628,21 +628,6 @@ OE: enigma2-plugin-settings-predrag-19e-16e-13
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: dab39f89cde262ab62f3bc10882209ca
-Size: 93080
-Filename: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 0.8w-13e-19.2e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-predrag-19e-16e-13e-9e-1.9e-0.8w-4w-5w
 Version: 1.0+git5+4e59462_r0
 Section: base
@@ -673,6 +658,21 @@ OE: enigma2-plugin-settings-gioppygio-13e-19e-9e-5w
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-morpheus883-0.8w-13e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: b269d6c99dce7efaaaa832ba461c4bbb
+Size: 61868
+Filename: enigma2-plugin-settings-morpheus883-0.8w-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 0.8w-13e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-0.8w-13e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
 Version: 1.0+git64+3d1ea06_r0
 Section: base
@@ -685,21 +685,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://www.vhannibal.net
 OE: enigma2-plugin-settings-vhannibal-7e-13e-19e-42e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-13e-16e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 710497eed39363c59b38d1f7d898acc4
-Size: 57050
-Filename: enigma2-plugin-settings-morpheus883-13e-16e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-16e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-16e
 License: Proprietary
 
 
@@ -733,18 +718,18 @@ OE: enigma2-plugin-settings-vhannibal-dual
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-motor
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-13e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: a0922373b41f99de96dacca83e17bd3c
-Size: 378368
-Filename: enigma2-plugin-settings-morpheus883-motor_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings motor
+MD5Sum: 64b23fdaae741a948a24c4c59c809764
+Size: 38516
+Filename: enigma2-plugin-settings-morpheus883-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-motor
+OE: enigma2-plugin-settings-morpheus883-13e
 License: Proprietary
 
 
@@ -853,21 +838,6 @@ OE: enigma2-plugin-settings-ciefp-19e-16e-13e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 04cc13595d7398f2ba2108b33fd041f4
-Size: 88126
-Filename: enigma2-plugin-settings-morpheus883-13e-16e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-16e-19.2e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
 Version: 1.0+git5+6ce1b78_r0
 Section: base
@@ -880,6 +850,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-39e-28e-23.5e-19e-16e-13e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-13e-28.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 4f286537635e800f481518768b3f2f67
+Size: 58048
+Filename: enigma2-plugin-settings-morpheus883-13e-28.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-28.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-28.2e
 License: Proprietary
 
 
@@ -943,33 +928,18 @@ OE: enigma2-plugin-settings-vhannibal-13e-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-9e-13e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 08999f5352af9e9b58504222d6462f7c
-Size: 89916
-Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-42e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-19.2e-42e
+MD5Sum: 519d78e0852b2d4528a90358d8e52140
+Size: 55272
+Filename: enigma2-plugin-settings-morpheus883-9e-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 9e-13e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-19.2e-42e
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: ef245bcb419a5995b5640357c65fc207
-Size: 86068
-Filename: enigma2-plugin-settings-morpheus883-9e-13e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 9e-13e-19.2e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
+OE: enigma2-plugin-settings-morpheus883-9e-13e
 License: Proprietary
 
 
@@ -1048,18 +1018,33 @@ OE: enigma2-plugin-settings-dona-23.5e-19e-16e-13e-1.9e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-motor
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 1a8f42fd1862362945708f38644ca81d
-Size: 89110
-Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-19.2e-28.2e
+MD5Sum: 038d45a55c1cdb1904248d897e0fad22
+Size: 378456
+Filename: enigma2-plugin-settings-morpheus883-motor_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings motor
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-19.2e-28.2e
+OE: enigma2-plugin-settings-morpheus883-motor
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: b18853198fb9eac227334ad7d1d46911
+Size: 86436
+Filename: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-19.2e-23.5e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-19.2e-23.5e
 License: Proprietary
 
 
@@ -1075,6 +1060,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Dona-settings
 OE: enigma2-plugin-settings-dona-39e-23.5e-19e-16e-13e-9e-1.9e-1w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-13e-23.5e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 09cbf05545456e3a35499f41eac048ac
+Size: 55568
+Filename: enigma2-plugin-settings-morpheus883-13e-23.5e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-23.5e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-23.5e
 License: Proprietary
 
 
@@ -1108,21 +1108,6 @@ OE: enigma2-plugin-settings-gioppygio-13e-16e-19e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 1a1598847d541e87efbebbf07c114a70
-Size: 38526
-Filename: enigma2-plugin-settings-morpheus883-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-predrag-19e
 Version: 1.0+git5+4e59462_r0
 Section: base
@@ -1135,6 +1120,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-19e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 2a15f13a59cd10a38f09c6ed5ef6dd97
+Size: 83702
+Filename: enigma2-plugin-settings-morpheus883-30w-13e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 30w-13e-19.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-30w-13e-19.2e
 License: Proprietary
 
 
@@ -1165,6 +1165,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
 OE: enigma2-plugin-settings-gioppygio-e9-13e
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 5a0a5570e382abb8ba85dc3e3c8a4ccb
+Size: 86150
+Filename: enigma2-plugin-settings-morpheus883-9e-13e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 9e-13e-19.2e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-9e-13e-19.2e
 License: Proprietary
 
 
@@ -1258,21 +1273,6 @@ OE: enigma2-plugin-settings-henksat-13e-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 6cd7b1bb138c507ff75caa13f83333e1
-Size: 105040
-Filename: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-16e-19.2e-23.5e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-16e-19.2e-23.5e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-dona-motor-75e-30w
 Version: 1.0+git5+6ce1b78_r0
 Section: base
@@ -1288,33 +1288,33 @@ OE: enigma2-plugin-settings-dona-motor-75e-30w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-13e-19.2e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 03453a58f4c2b15d527448a563c9c715
-Size: 69320
-Filename: enigma2-plugin-settings-morpheus883-13e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 13e-19.2e
+MD5Sum: 1f35c512d77387e880ed1db1c4ebeb6a
+Size: 93078
+Filename: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 0.8w-13e-19.2e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-13e-19.2e
+OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-13e-16e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: a36bf6664e2670c94db05db5e203d5c2
-Size: 78206
-Filename: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 4.8e-13e-19.2e
+MD5Sum: 609d305eaa35329014726624d112e2d5
+Size: 56980
+Filename: enigma2-plugin-settings-morpheus883-13e-16e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-16e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-4.8e-13e-19.2e
+OE: enigma2-plugin-settings-morpheus883-13e-16e
 License: Proprietary
 
 
@@ -1330,6 +1330,21 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://github.com/OpenVisionE2/Predrag-settings
 OE: enigma2-plugin-settings-predrag-42e-39e-28e-23.5e-19e-16e-13e-9e-7e-1.9e-0.8w-5w-30w
+License: Proprietary
+
+
+Package: enigma2-plugin-settings-morpheus883-30w-13e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: 8088c5c4ee21683cc786c629c063ddc5
+Size: 53102
+Filename: enigma2-plugin-settings-morpheus883-30w-13e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 30w-13e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-30w-13e
 License: Proprietary
 
 
@@ -1378,6 +1393,21 @@ OE: enigma2-plugin-settings-dona-19e
 License: Proprietary
 
 
+Package: enigma2-plugin-settings-morpheus883-13e-42e
+Version: 1.1+git348+ba52e5c_r0
+Section: base
+Architecture: all
+MD5Sum: c60463fde6e0502c87d026952818b5ec
+Size: 58396
+Filename: enigma2-plugin-settings-morpheus883-13e-42e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 13e-42e
+Maintainer: morpheus883 <morph883@hotmail.com>
+Priority: optional
+Source: https://github.com/morpheus883/enigma2-settings
+OE: enigma2-plugin-settings-morpheus883-13e-42e
+License: Proprietary
+
+
 Package: enigma2-plugin-settings-henksat-45e-45w-rotating
 Version: 1.1+git66+149aa85_r0
 Section: base
@@ -1405,21 +1435,6 @@ Maintainer: Open Vision developers <forum.openvision.tech>
 Priority: optional
 Source: https://gioppygio.it
 OE: enigma2-plugin-settings-gioppygio-13e-19e-30w
-License: Proprietary
-
-
-Package: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: de859f12cef164acfbcd7385a26c2e8e
-Size: 113480
-Filename: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 0.8w-13e-19.2e-28.2e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e
 License: Proprietary
 
 
@@ -1573,21 +1588,6 @@ OE: enigma2-plugin-settings-dona-19e-16e-13e-1w
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-9e-13e
-Version: 1.1+git347+ace7085_r0
-Section: base
-Architecture: all
-MD5Sum: 72de287b9ba244b78d785e3ebef19520
-Size: 55206
-Filename: enigma2-plugin-settings-morpheus883-9e-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 9e-13e
-Maintainer: morpheus883 <morph883@hotmail.com>
-Priority: optional
-Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-9e-13e
-License: Proprietary
-
-
 Package: enigma2-plugin-settings-ciefp-28e-23e-19e-16e-13e-4.8e-1.9e-0.8w
 Version: 1.1+git263+7df7d01_r0
 Section: base
@@ -1618,18 +1618,18 @@ OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
 License: Proprietary
 
 
-Package: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
-Version: 1.1+git347+ace7085_r0
+Package: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e
+Version: 1.1+git348+ba52e5c_r0
 Section: base
 Architecture: all
-MD5Sum: 7079e34c142cd9fe19240abd8636daca
-Size: 71298
-Filename: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e_1.1+git347+ace7085_r0_all.ipk
-Description: morpheus883 enigma2 settings 0.8w-4.8e-13e
+MD5Sum: 594a4cbeee8908e749fb0e9ec3384640
+Size: 113442
+Filename: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e_1.1+git348+ba52e5c_r0_all.ipk
+Description: morpheus883 enigma2 settings 0.8w-13e-19.2e-28.2e
 Maintainer: morpheus883 <morph883@hotmail.com>
 Priority: optional
 Source: https://github.com/morpheus883/enigma2-settings
-OE: enigma2-plugin-settings-morpheus883-0.8w-4.8e-13e
+OE: enigma2-plugin-settings-morpheus883-0.8w-13e-19.2e-28.2e
 License: Proprietary
 
 
